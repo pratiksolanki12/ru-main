@@ -1,0 +1,22 @@
+.about {
+    display: flex;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #ffd850;
+}
+.imag {
+    margin-left: 100px;
+}
+.abot {
+    margin-left: 133px;
+}
+.name {
+    display: flex;
+    background-color: #ffd850;
+}
+.sm {
+    margin-left:27px ;
+}
+.ss {
+    margin-left: 170px;
+}
